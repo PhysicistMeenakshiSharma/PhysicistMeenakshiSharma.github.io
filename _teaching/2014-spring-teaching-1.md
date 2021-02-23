@@ -1,10 +1,10 @@
 ---
-title: " training in the field of High Energy Physics detectors and the related electronics from the experts of VECC, Kolkata from July 10- Aug. 4, 2017"
+title: " Training in the field of High Energy Physics detectors and the related electronics from the experts of VECC, Kolkata from July 10- Aug. 4, 2017"
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "VECC"
-date: 2014-01-01
+date: 2017-07-10 to 2017-08-04 
 location: "Kolkata, India"
 ---
 
