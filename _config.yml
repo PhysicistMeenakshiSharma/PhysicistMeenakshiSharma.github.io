@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 #twitter:
-  username               : #&twitter
+#  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=8EVa8ycAAAAJ&hl=en"
-  email            :
+  email            : "meenakshi.sharma@cern.ch"
   researchgate     :  "https://www.researchgate.net/profile/Meenakshi-Sharma-15"
   uri              :
   bitbucket        :
