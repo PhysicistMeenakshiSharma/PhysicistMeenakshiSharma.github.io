@@ -1,7 +1,6 @@
 ---
 title: " Training in the field of High Energy Physics detectors"
 collection: teaching
-type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "VECC"
 date: 2017-07-10 to 2017-08-04 
