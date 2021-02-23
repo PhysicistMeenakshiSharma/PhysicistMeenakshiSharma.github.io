@@ -12,21 +12,18 @@ I am a PhD student and affiliated to University of Jammu. Throughout this websit
 
 RESEARCH INTEREST
 ======
-* NUCLEAR AND PARTICLE PHYSICS
+* QGP
 * ACCELERATOR PHYSICS
-* ALICE 
+* STRANGE PARTICLES PRODUCTION AT LHC ENERGIES 
+
+SKILLS
+======
+
+* SIMULATIONS
 * C++
+* PYTHON
+* LATEX
 
 
 
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-------
-
-For more info
-------
 
