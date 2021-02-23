@@ -12,10 +12,10 @@ I am a PhD student and affiliated to University of Jammu. Throughout this websit
 
 RESEARCH INTEREST
 ======
-NUCLEAR AND PARTICLE PHYSICS
-ACCELERATOR PHYSICS
-ALICE 
-C++
+* NUCLEAR AND PARTICLE PHYSICS
+* ACCELERATOR PHYSICS
+* ALICE 
+* C++
 
 
 
