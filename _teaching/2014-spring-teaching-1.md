@@ -2,8 +2,7 @@
 title: " Training in the field of High Energy Physics detectors"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-venue: "VECC"
-date: 2017-07-10-2017-08-04 
+date: 2017-07-10
 location: "VECC, Kolkata, India"
 ---
 
