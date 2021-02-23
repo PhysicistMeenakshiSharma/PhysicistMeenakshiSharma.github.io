@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* Simualations
+* Simulations
 * C++
 * Python
 * Latex
