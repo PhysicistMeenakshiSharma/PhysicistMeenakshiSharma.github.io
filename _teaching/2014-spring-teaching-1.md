@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: " training in the field of High Energy Physics detectors and the related electronics from the experts of VECC, Kolkata from July 10- Aug. 4, 2017"
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "VECC"
 date: 2014-01-01
-location: "City, Country"
+location: "Kolkata, India"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
