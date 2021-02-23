@@ -10,11 +10,4 @@ location: "Kolkata, India"
 
 
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
