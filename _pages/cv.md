@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. , Govt. PG College Rajouri, 2014
+* M.Sc. with specialization in Nuclear and Particle Physics, University of Jammu, 2016
+* Ph.D in Nuclear and particle Physics, University of Jammu, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Pre-PhD
+* 2018-2020: Project Assistant in ALICE(U & 0) Project
+* 2017: Worked on GEM and Silicon detectors, VECC, Kolkata
+* 2018: Worked on Resistive Plate Chamber (RPC), MWPC,GEM, SERC School, NISER, Orissa
+* 2019: CERN, Geneva, Switzerland
+  * Physics Analysis
+  * Service work on Trigger System of ALICE, LHC 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Simualations
+* C++
+* Python
+* Latex
+* ROOT
+* Linux O/P
 
 Publications
 ======
