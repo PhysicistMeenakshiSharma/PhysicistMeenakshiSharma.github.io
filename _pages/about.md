@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Me as a particle Physicist"
+title: "WELCOME TO THE WEBSITE OF MEENAKSHI SHARMA"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I started My journey as a particle physicist in 2015 by doing project during my M.Sc days. There was so much fascination in my mind to explore this field further. I started my PhD in 2017. I am working in ALICE experiment.
+I am a PhD student and affiliated to University of Jammu. Throughout this website you can access my published papers, my experiment and work in progress. My CV is also available along with information about me. If you are a student and interested in Particle Physics, you are likely looking for the Particle Physics page. Inquiries regarding my work are welcome and you may contact me using my email address.
 
 ALICE EXPERIMENT
 ======
