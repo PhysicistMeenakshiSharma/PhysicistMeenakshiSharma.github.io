@@ -54,4 +54,4 @@ Schools and Trainings
   
 Service and leadership
 ======
-* Junior's Representative of ALICE-India Collaboration and Junior Ambassador to ALICE from India
+* Junior's Representative of ALICE-India Collaboration and Junior Ambassador to ALICE from India (2021 to 2022)
