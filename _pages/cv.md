@@ -54,4 +54,4 @@ Schools and Trainings
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Junior's Representative of ALICE-India Collaboration and Junior Ambassador to ALICE from India
